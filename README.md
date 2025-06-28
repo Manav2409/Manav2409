@@ -31,6 +31,3 @@ const yourName = {
 📧 Email: [manavl733@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/manav-lakhanpal-0287a61a9/]
-
-- `https://linkedin.com/in/yourprofile` with your real LinkedIn profile URL
-- `https://medium.com/@yourmediumhandle` with your Medium profile link
