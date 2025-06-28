@@ -23,10 +23,11 @@ const yourName = {
     funFact: "I automate things that bore me – which is why I rarely get bored."
 };
 
-📫 Contact Me
+```
+
+## 📫 Contact Me
 💬 Feel free to reach out if you have any questions, want to collaborate, or just want to connect!
 
 📧 Email: [manavl733@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/manav-lakhanpal-0287a61a9/]
-
