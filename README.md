@@ -25,9 +25,19 @@ const yourName = {
 
 ```
 
-## 📫 Contact Me
-💬 Feel free to reach out if you have any questions, want to collaborate, or just want to connect!
+### Contact Me
 
-📧 Email: [manavl733@gmail.com]
+💬 Feel free to reach out if you have any questions about the project, need help understanding something, or want to collaborate — always open to connecting!
 
-💼 LinkedIn: [https://www.linkedin.com/in/manav-lakhanpal-0287a61a9/]
+<p align="center">
+<a href="mailto:manavl733@gmail.com">
+<img  alt="Gmail" width="50" hight="50" src="./assets/gmail.png" style="margin-right: 40px;"/></a>
+<a href="[https://www.linkedin.com/in/manav-lakhanpal-0287a61a9/]">
+<img alt="LinkedIn" width="50" hight="50" src="./assets/linkedin.png"  style="margin-right: 40px;"/> </a>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manav2409&hide_border=true&show_icons=true" alt="edisonlee55's github stats">
+</p>
+<p align="center">I'm currently working as  Software Developer at Progress and learning new Technologies.</p>
