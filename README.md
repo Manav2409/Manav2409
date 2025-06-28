@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Manav Lakhan Pal. 👋  
+Welcome to my GitHub Profile!
 
-<!--
-**Manav2409/Manav2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+```js
+const yourName = {
+    code: ["Java", "JavaScript", "Python", "SQL"],
+    askMeAbout: ["Backend Development", "Spring Boot", "Cloud", "PDF Data Extraction"],
+    technologies: {
+        backEnd: {
+            java: ["Spring Boot", "Spring Batch"],
+            js: ["Node.js"],
+            python: ["FastAPI", "Flask"]
+        },
+        frontEnd: [
+            "React", "Angular", "TypeScript", "HTML", "CSS"
+        ],
+        devOps: ["Azure☁️", "Docker🐳", "Kubernetes", "Jenkins", "GitHub Actions", "Linux"],
+        cloudAI: ["Azure Document Intelligence"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Azure Cosmos DB"]
+    },
+    currentFocus: "Building intelligent PDF processing pipelines using Azure AI + Spring Batch",
+    funFact: "I automate things that bore me – which is why I rarely get bored."
+};
 
-Here are some ideas to get you started:
+📫 Contact Me
+💬 Feel free to reach out if you have any questions, want to collaborate, or just want to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: [manavl733@gmail.com]
+
+💼 LinkedIn: [https://www.linkedin.com/in/manav-lakhanpal-0287a61a9/]
+
