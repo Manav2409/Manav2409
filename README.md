@@ -1,4 +1,4 @@
-# Hi, I'm Manav Lakhan Pal. 👋  
+# Hi, I'm Manav Lakhanpal. 👋  
 Welcome to my GitHub Profile!
 
 ## 🧑‍💻 About Me  
