@@ -3,7 +3,7 @@ Welcome to my GitHub Profile!
 
 ## 🧑‍💻 About Me  
 ```js
-const yourName = {
+const manav = {
     code: ["Java", "Python", "SQL"],
     askMeAbout: ["Backend Development", "Spring Boot", "Cloud", "PDF Data Extraction"],
     technologies: {
